@@ -1,8 +1,6 @@
 # PROJECT-1-Machine-learning-House-Price-Prediction-Regressionn
 
 
-# **🏡 Bengaluru House Price Prediction using Machine Learning**  
-
 ## 📌 **Introduction**  
 Housing prices in metropolitan cities like **Bengaluru** fluctuate due to multiple factors, such as **location, availability, demand, infrastructure, and real estate trends**. Manually predicting house prices can be challenging due to **the vast number of variables affecting property costs**.  
 
